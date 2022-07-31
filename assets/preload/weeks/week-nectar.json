@@ -1,0 +1,25 @@
+{
+	"storyName": "Ik the meme is dead stfu",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Nectar",
+			"pico",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Nectar"
+}
